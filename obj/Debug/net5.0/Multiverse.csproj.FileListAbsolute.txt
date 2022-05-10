@@ -1,0 +1,15 @@
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.csprojAssemblyReference.cache
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.AssemblyInfoInputs.cache
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.AssemblyInfo.cs
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.csproj.CoreCompileInputs.cache
+/Users/bchaluvadi/Multiverse/bin/Debug/net5.0/Multiverse.deps.json
+/Users/bchaluvadi/Multiverse/bin/Debug/net5.0/Multiverse.runtimeconfig.json
+/Users/bchaluvadi/Multiverse/bin/Debug/net5.0/Multiverse.runtimeconfig.dev.json
+/Users/bchaluvadi/Multiverse/bin/Debug/net5.0/Multiverse.dll
+/Users/bchaluvadi/Multiverse/bin/Debug/net5.0/ref/Multiverse.dll
+/Users/bchaluvadi/Multiverse/bin/Debug/net5.0/Multiverse.pdb
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.dll
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/ref/Multiverse.dll
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.pdb
+/Users/bchaluvadi/Multiverse/obj/Debug/net5.0/Multiverse.genruntimeconfig.cache

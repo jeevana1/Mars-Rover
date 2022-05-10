@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/bchaluvadi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/bchaluvadi/Multiverse/Multiverse.csproj",
+      "projectName": "Multiverse",
+      "projectPath": "/Users/bchaluvadi/Multiverse/Multiverse.csproj",
+      "packagesPath": "/Users/bchaluvadi/.nuget/packages/",
+      "outputPath": "/Users/bchaluvadi/Multiverse/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/bchaluvadi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "dotnet5.0",
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/5.0.207/libexec/sdk/5.0.207/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
